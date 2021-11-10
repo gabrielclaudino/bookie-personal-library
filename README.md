@@ -1,2 +1,3 @@
-# Bookie-my-personal-library
+# Bookie - Personal Library
+
 Your personal reading manager
